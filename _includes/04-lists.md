@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Fruits
+2. Juice
+3. Vegetables
+   1. Tomato
+   2. Spinach
